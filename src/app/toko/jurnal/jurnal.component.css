@@ -1,0 +1,22 @@
+div.jurnal {
+    font-family: Verdana, Geneva, sans-serif;
+    /* background-color: #345CE7; */
+    border-collapse: collapse;
+    margin: 20px;
+    position:sticky;
+  }
+  .divTable.jurnal .divTableCell, .divTable.jurnal .divTableHead {
+  }
+  .divTable.jurnal .divTableBody .divTableCell {
+    font-size: 14px;
+    color: #000000;
+    padding:2px;
+  }
+  /* DivTable.com */
+  .divTable{ display: table; }
+  .divTableRow { display: table-row; }
+  .divTableHeading { display: table-header-group;}
+  .divTableCell, .divTableHead { display: table-cell;}
+  .divTableHeading { display: table-header-group;}
+  .divTableFoot { display: table-footer-group;}
+  .divTableBody { display: table-row-group;}
